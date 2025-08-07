@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ai-prompt-studio/static/js/main.6afd0c1e.js",
+    "index.html": "/ai-prompt-studio/index.html",
+    "main.6afd0c1e.js.map": "/ai-prompt-studio/static/js/main.6afd0c1e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6afd0c1e.js"
+  ]
+}
